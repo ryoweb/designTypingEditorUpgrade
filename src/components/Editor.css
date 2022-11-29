@@ -1,0 +1,9 @@
+.editor{
+    width: 50%;
+}
+
+@media screen and (max-width: 480px){
+    .editor{
+        width: 100%;
+    }
+}

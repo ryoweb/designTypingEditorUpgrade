@@ -1,0 +1,15 @@
+.playground{
+    border-right: solid #a8a8a8 1px;
+    width: 50%;
+}
+.content{
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 480px){
+    .playground{
+        width: 100%;
+        height: 250px;
+    }
+}

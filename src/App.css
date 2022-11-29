@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    height: auto;
+}
+
+@media screen and (max-width: 480px){
+    .app{
+        display: block;
+    }
+}
